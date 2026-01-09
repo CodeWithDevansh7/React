@@ -1,0 +1,115 @@
+[
+  {
+    "img" : "https://upload.wikimedia.org/wikipedia/commons/d/de/Amazon_icon.png",
+    "company" : "Amazon",
+    "postedAt" : "5 days ago",
+    "role" : "Senior UI/UX Designer",
+    "time" : "Part Time",
+    "more" : "Senior Level",
+    "pay" : "$120/hr",
+    "location" : "San Francisco, CA",
+    "id" : "1"
+
+  },
+  {
+    "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCvh-j7HsTHJ8ZckknAoiZMx9VcFmsFkv72g&s",
+    "company" : "Apple",
+    "postedAt" : "3 days ago",
+    "role" : "AI Engineer",
+    "time" : "Full Time",
+    "more" : "Remote",
+    "pay" : "$120-130k",
+    "location" : "Mountain View, CA",
+    "id" : "2"
+
+  },
+  {
+    "img" : "https://img.freepik.com/premium-vector/meta-company-logo_265339-667.jpg?semt=ais_hybrid&w=740&q=80",
+    "company" : "Meta",
+    "postedAt" : "1 month ago",
+    "role" : "Front-End Developer",
+    "time" : "Part Time",
+    "more" : "Remote",
+    "pay" : "$110-140k",
+    "location" : "New York, NY",
+    "id" : "3"
+  },
+  {
+    "img" : "https://static.vecteezy.com/system/resources/previews/027/127/473/non_2x/microsoft-logo-microsoft-icon-transparent-free-png.png",
+    "company" : "Microsoft",
+    "postedAt" : "2 weeks ago",
+    "role" : "Data Scientist",
+    "time" : "Full Time",
+    "more" : "Senior Level",
+    "pay" : "$130-150k",
+    "location" : "Redmond, WA",
+    "id" : "4"
+  },
+  {
+    "img" : "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/15844974/netflixlogo.0.0.1466448626.png?quality=90&strip=all&crop=0%2C9.7231879908377%2C100%2C80.553624018325&w=1200",
+    "company" : "Netflix",
+    "postedAt" : "4 days ago",
+    "role" : "Backend Developer",
+    "time" : "Contract",
+    "more" : "Mid Level",
+    "pay" : "$125-145k",
+    "location" : "Los Gatos, CA",
+    "id" : "5"
+  },
+  {
+    "img" : "https://cdn2.hubspot.net/hubfs/53/image8-2.jpg",
+    "company" : "Google",
+    "postedAt" : "1 week ago",
+    "role" : "Machine Learning Engineer",
+    "time" : "Full Time",
+    "more" : "Senior Level",
+    "pay" : "$140-160k",
+    "location" : "Mountain View, CA",
+    "id" : "6"
+  },
+  {
+    "img" : "https://blog.adobe.com/en/publish/2020/05/28/media_1d87bf78b1ce19defbef0c7858b4df696215a4048.png?width=750&format=png&optimize=medium",
+    "company" : "Adobe",
+    "postedAt" : "3 days ago",
+    "role" : "Product Manager",
+    "time" : "Full Time",
+    "more" : "Mid Level",
+    "pay" : "$115-135k",
+    "location" : "San Jose, CA",
+    "id" : "7"
+  },
+  {
+    "img" : "https://crystalpng.com/wp-content/uploads/2025/05/ibm-logo.png",
+    "company" : "IBM",
+    "postedAt" : "2 weeks ago",
+    "role" : "Cloud Solutions Architect",
+    "time" : "Contract",
+    "more" : "Senior Level",
+    "pay" : "$130-150k",
+    "location" : "Armonk, NY",
+    "id" : "8"
+  },
+  {
+    "img" : "https://static.vecteezy.com/system/resources/previews/020/190/468/non_2x/intel-logo-intel-icon-free-free-vector.jpg",
+    "company" : "Intel",
+    "postedAt" : "5 days ago",
+    "role" : "Hardware Engineer",
+    "time" : "Full Time",
+    "more" : "Mid Level",
+    "pay" : "$120-140k",
+    "location" : "Santa Clara, CA",
+    "id" : "9"
+  },
+  {
+    "img" : "https://images.seeklogo.com/logo-png/25/1/salesforce-logo-png_seeklogo-256541.png",
+    "company" : "Salesforce",
+    "postedAt" : "1 month ago",
+    "role" : "CRM Developer",
+    "time" : "Part Time",
+    "more" : "Remote",
+    "pay" : "$110-130k",
+    "location" : "San Francisco, CA",
+    "id" : "10"
+  }
+  
+]

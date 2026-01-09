@@ -1,0 +1,146 @@
+*{
+  margin : 0;
+  padding:0;
+  box-sizing:border-box;
+  color:#fff;
+}
+
+html,body{
+  height:100%;
+  width:100%;
+}
+
+body{
+  background-color: black;
+}
+
+.parent{
+  width:100%;
+  height:100vh;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+  column-gap: 20px;   /* 👈 controls horizontal gap */
+  row-gap: 24px;      /* 👈 vertical spacing */
+  padding: 24px;      /* soft outer padding */
+}
+
+.card{
+  height:400px;
+  width:100%;        /* 👈 let grid control width */
+  max-width:350px;   /* optional: keeps nice card size */
+  background-color: white;
+  border-radius:20px;
+  padding : 0px 15px;
+}
+
+.card .top{
+  height:70px;
+  width:100%;
+  display:flex;
+  justify-content: space-between;
+  margin:20px 0px;
+}
+
+.card .top img{
+  width : 50px;
+  height:50px;
+  object-fit:cover;
+  border-radius:50%;
+  border : 2px solid #dadada;
+}
+
+.card .top button{
+  height:40px;
+  width:100px;
+  color:black;
+  display:flex;
+  justify-content: space-evenly;
+  align-items: center;
+  border:1px solid gray;
+  border-radius: 10px;
+  margin-top:5px;
+  cursor:pointer;
+}
+
+.card .center{
+  height:200px;
+  width:100%;
+  display:flex;
+  flex-direction: column;
+  margin:20px 0px;
+  
+}
+
+.card .center .company{
+  display:flex;
+  gap:20px;
+  margin : 10px 0px;
+  color : black;
+}
+
+.card .center .company h3{
+  font-size: 22px;
+  color:black;
+  font-weight: 800;
+}
+
+.card .center .company span{
+  color : black;
+  font-size : 18px;
+  font-weight: 600;
+  border-radius: 10px;
+  margin-top:3px;
+  cursor:pointer;
+}
+
+.card .center .position h2{
+  font-size:30px;
+  font-weight: 800;
+  color:black;
+}
+
+.card .center .role{
+  display: flex;
+  gap : 20px;
+  margin : 10px 0px;
+  color : black;
+}
+
+.card .center .role span{
+  font-size : 16px;
+  font-weight: 600;
+  cursor:pointer;
+  color:black;
+  background-color: lightgray;
+  padding:5px;
+  border-radius: 10px;
+}
+
+.card .bottom{
+  border-top:2px solid gray;
+  display:flex;
+  justify-content: space-between;
+  padding-top:10px;
+}
+
+.card .bottom h3{
+  font-size:16px;
+  font-weight: 600;
+  color:black;
+}
+
+.card .bottom span{
+  font-size:16px;
+  font-weight: 600;
+  color:gray;
+  cursor:pointer;
+  padding:-5px;
+}
+
+.card .bottom button{
+  padding:8px;
+  color:white;
+  background-color: black;
+  border-radius: 10px;
+  cursor:pointer;
+}
