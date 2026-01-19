@@ -10,7 +10,7 @@ const App = () => {
       <Header />
       <div className='flex my-20 '>
         <Content />
-        <div className='flex wrap gap-10'>
+        <div id = "right" className='flex flex-nowrap gap-10 w-3/4 overflow-x-auto px-10 '>
           {data.map((item) => (
             <Card obj={item} />
           ))}

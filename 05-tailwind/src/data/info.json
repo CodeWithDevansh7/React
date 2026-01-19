@@ -19,5 +19,11 @@
         "description" : "Customers unhappy with their current bank and looking to switch providers",
         "status" : "Unsatisfied",
         "color" : "bg-red-500"
+    },{
+        "img" : "https://i.pinimg.com/474x/17/cc/5f/17cc5fc89e7bcebd693b8faab1753741.jpg",
+        "number" : "4",
+        "description" : "New customers who have never had a bank account before and are exploring options",
+        "status" : "New",
+        "color" : "bg-green-500"
     }
 ]
