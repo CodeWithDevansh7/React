@@ -1,0 +1,23 @@
+[
+    {
+        "img" : "https://media.istockphoto.com/id/1496615469/photo/serene-latin-woman-enjoy-sunset-with-gratitude.jpg?s=612x612&w=0&k=20&c=LXeGeLgKznGamU25tLajijCVuV5lxWIZH0RW5qN3k5g=",
+        "number" : "1",
+        "description" : "Prime customers, that have access to bank credit and are satisfied with the current product",
+        "status" : "Satisfied",
+        "color" : "bg-blue-500"
+    },
+    {
+        "img" : "https://media.istockphoto.com/id/1370717141/photo/calm-man-outdoors-relaxing-and-breathing-in-deeply-in-autumn-park.jpg?s=612x612&w=0&k=20&c=-Mzh526Kchrh4oVSRh5pvAckB5C9BQVug_T7OElNFCk=",
+        "number" : "2",
+        "description" : "Customers looking for better interest rates and offers than their current bank",
+        "status" : "Interested",
+        "color" : "bg-orange-500"
+    },
+    {
+        "img" : "https://t4.ftcdn.net/jpg/04/93/55/45/360_F_493554509_XL9KuYg9Zr51boPwaYihJnC2bmYU9gLK.jpg",
+        "number" : "3",
+        "description" : "Customers unhappy with their current bank and looking to switch providers",
+        "status" : "Unsatisfied",
+        "color" : "bg-red-500"
+    }
+]
